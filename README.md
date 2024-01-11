@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me? julietacollado98@hotmail.com
 - 😄 Pronouns: She/Her
+- 🗣️ I can speak perfect Spanish and English; good Italian and understand some Danish, Swedish and French.
 - ⚡ Fun fact: My favorite thing to do, is to hike... I imagine mountains, woods, etc. and I live in southern sweden... 🤔😂
 
 <!---
