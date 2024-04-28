@@ -1,4 +1,4 @@
-from SoftwareDeveloper import JulietaCollado
+´´´from SoftwareDeveloper import JulietaCollado
 
 class Information:
    def __init__(self):
@@ -19,7 +19,7 @@ class Information:
          return ["SQLite", "MySQL"]
       elif frameworks:
           return ["Flask", "Cypress", "Playwright", "Django"]
-     
+     ´´´
   
 
 <!---
