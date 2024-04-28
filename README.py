@@ -12,7 +12,7 @@ class Information:
       self.spokenLanguages = 'English, Spanish, Italian, some Danish and Swedish'
       
 
-  def Skills(self, languages, databases, frameworks):
+  def skills(self, languages, databases, frameworks):
       if languages:
          return ["Python", "JavaScript", "HTML", "CSS"]
       elif databases:
