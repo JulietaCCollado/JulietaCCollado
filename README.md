@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @JulietaCCollado
-- 👀 I’m interested in travel, technology and plants.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me? julietacollado98@hotmail.com
-- 😄 Pronouns: She/Her
-- 🗣️ I can speak perfect Spanish and English; good Italian and understand some Danish, Swedish and French
-- ⚡ Fun fact: My favorite thing to do, is to hike... I imagine mountains, woods, etc. and I live in southern sweden... 🤔😂
+from SoftwareDeveloper import JulietaCollado
+
+class Information:
+   def __init__(self):
+      self.name = 'Julieta Collado'
+      self.age = '25 years old'
+      self.from = 'Buenos Aires, Argentina'
+      self.residence = 'Sweden'
+      self.hobbies = 'Travel, coding, go for walks'
+      self.contact = 'julietacollado98@hotmail.com'
+      self.linkedIn = 'Julieta Marina Colberg Collado'
+      self.spokenLanguages = 'English, Spanish, Italian, some Danish and Swedish'
+      
+
+  def Skills(self, languages, databases, frameworks):
+      if languages:
+         return ["Python", "JavaScript", "HTML", "CSS"]
+      elif databases:
+         return ["SQLite", "MySQL"]
+      elif frameworks:
+          return ["Flask", "Cypress", "Playwright", "Django"]
+     
+  
 
 <!---
 JulietaCCollado/JulietaCCollado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
