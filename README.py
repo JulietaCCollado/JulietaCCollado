@@ -9,7 +9,7 @@ class Information:
       self.hobbies = 'Travel, coding, go for walks'
       self.contact = 'julietacollado98@hotmail.com'
       self.linkedIn = 'Julieta Marina Colberg Collado'
-      self.spokenLanguages = 'English, Spanish, Italian, some Danish and Swedish'
+      self.spokenLanguages = 'English, Spanish, Italian'
       
 
   def skills(self, languages, databases, frameworks):
