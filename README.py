@@ -3,9 +3,9 @@ from SoftwareDeveloper import JulietaCollado
 class Information:
    def __init__(self):
       self.name = 'Julieta Collado'
-      self.age = '25 years old'
+      self.age = '26 years old'
       self.from = 'Buenos Aires, Argentina'
-      self.residence = 'Sweden'
+      self.residence = 'Copenhagen, Denmark'
       self.hobbies = 'Travel, coding, go for walks'
       self.contact = 'julietacollado98@hotmail.com'
       self.linkedIn = 'Julieta Marina Colberg Collado'
