@@ -3,7 +3,7 @@ from SoftwareDeveloper import UserProfile
 class Information:
    def __init__(self):
       self.name = 'Julieta Collado'
-      self.age = '26 years old'
+      self.age = '27 years old'
       self.from = 'Buenos Aires, Argentina'
       self.residence = 'Copenhagen, Denmark'
       self.hobbies = 'Travel, coding, cooking, strolls'
